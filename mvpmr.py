@@ -1,5 +1,5 @@
 import time
-mvpMob = raw_input('MVP:')
+mvpMob = raw_input('Map: ')
 mvpList = {'lhz_dun04':'1 Hour and 40 Minutes to 2 Hours and 10 Minutes left until respawn',
            'lhz_dun03':'1 Hour and 40 Minutes to 2 Hours and 10 Minutes left until respawn',
            'lou_dun03':'1 Hour and 57 Minutes to 2 Hours and 7 Minutes left until respawn',
